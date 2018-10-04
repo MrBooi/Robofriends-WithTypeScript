@@ -1,2 +1,2 @@
-##RoboFriends with TypeScript
+RoboFriends App with TypeScript
 
