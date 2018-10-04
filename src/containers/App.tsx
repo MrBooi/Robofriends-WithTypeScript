@@ -14,7 +14,7 @@ interface IAppProps {
 }
 
 interface IAppState {
-  robots: IRobot[];
+  robots: IRobot<IRobot>;
   searchfield: string;
 }
 
